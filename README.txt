@@ -10,10 +10,6 @@ If you use these codes, please cite the paper:
   pages =     {600--612}
 }
 
+If you have any questions, Feel free to contact with me. (Email: kzhan#lzu.edu.cn)
 
-
-Reference:
-Kun Zhan, Jicai Teng, Qiaoqiao Li and Jinhui Shi,
-A Novel Explicit Multi-focus Image Fusion Method,
-Journal of Information Hiding and Multimedia Signal Processing,
-Vol. 6, No. 3, pp. 600-612, May 2015.
+http://www.escience.cn/people/kzhan
